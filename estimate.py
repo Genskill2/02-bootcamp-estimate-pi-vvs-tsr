@@ -51,6 +51,6 @@ def monte_carlo(n):
     return 4*(pc)/(ps)
             
           
-if _name_ == "_main_":
+if _name_== "__main__":
     unittest.main()
  
